@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/alyaridwan27/expenses-chart-page-main
 - Live Site URL: https://alyaridwan27.github.io/expenses-chart-page-main/
 
 ## My process
